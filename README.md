@@ -1,0 +1,1 @@
+This Django-based E-commerce Project is a robust web application designed for online shopping. It offers a seamless shopping experience for users, featuring functionalities for product browsing, cart management, and secure online transactions. The project is built using the Django framework, ensuring a scalable, maintainable, and efficient backend
